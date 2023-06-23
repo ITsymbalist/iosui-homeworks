@@ -3,7 +3,7 @@
 На занятии вы узнали, что такое UX- и UI-дизайн, и познакомились с основными принципами Apple Human Interface Guidelines. 
 
 В качестве домашнего задания мы просим вас изучить:
-1. [Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/) самостоятельно. Отдельное внимание обратите на:
+1. [Apple Human Interface Guidelines]([https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/](https://developer.apple.com/design/human-interface-guidelines)) самостоятельно. Отдельное внимание обратите на:
 - App Architecture -> Onboarding, Navigation;
 - Visual Design -> Adaptivity Layout;
 - Icons and Images;
